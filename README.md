@@ -9,7 +9,19 @@ Launch ModAPI.exe and follow the instruction it provides.
 Step three launch The Forest through steam and your done.
 -----------------
 IMPORTANT NOTES!!! Dose not work on pirated version of the game!
+--
+Included Mods
+--
+Ultimate Cheatmenu
+-
+Map
+-
+Little Better Flashlight
+-
+Multiplayer Dragaway
+---------
+
+ENJOY!
 
 
-ENJOY.
 
